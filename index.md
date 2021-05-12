@@ -5,7 +5,10 @@ permalink: /
 order: 0
 ---
 
-<!-- <div style="width:100%;text-align:center;background:crimson;color:white;font-weight:500;padding:5px 2px 5px 2px;"><b>IMPORTANT!</b> This is a test message. (10.05.2021.)</div> -->
+<div style="width:100%;text-align:center;background:crimson;color:white;font-weight:500;padding:5px 2px 5px 2px;">
+  <b>IMPORTANT!</b>
+  The website is online (10.05.2021)
+</div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 

@@ -12,7 +12,7 @@ order: 10
 <div class="list-organizers">
     {% for organizer in organizers %}
         <div class="list-organizers-item">
-            <a href="{{ organizer.website }}"><img src="/assets/people/{{ organizer.image }}" class="organizer-img" /></a>
+            <a href="{{ organizer.website }}"><img src="/assets/people/{{ organizer.image }}" class="organizer-img" style="border-radius: 50%;" /></a>
             {% assign names = organizer.name | split: ", " %}
             {% assign lastnameUpcase = names[0] | upcase %}
             {% assign fullname = names[1] | append: " " | append: lastnameUpcase %}

@@ -5,10 +5,25 @@ permalink: /
 order: 0
 ---
 
-<div style="width:100%;text-align:center;background:crimson;color:white;font-weight:500;padding:5px 2px 5px 2px;">
-  <b>IMPORTANT!</b>
-  The website is online (10.05.2021)
+<!--
+<div class="info">
+    <div class="announcement-content">
+        <b>NEW</b>
+        (12.05.2021):
+        The website is online.
+    </div>
 </div>
+-->
+
+<!--
+<div class="important">
+    <div class="announcement-content">
+        <b>IMPORTANT</b>
+        (12.05.2021): 
+        The deadline has been extended.
+    </div>
+</div>
+-->
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 

@@ -18,7 +18,7 @@ Virtual</p>
 
 <div align="center">
   Welcome to the first International Hands-on Workshop on Collaborative Modeling 2021 (HoWCoM).<br>
-  Co-located with the [MODELS 2021](http://www.modelsconference.org) conference, HoWCoM will be a completely online event.
+  HoWCoM is a completely online event co-located with the <a href="http://www.modelsconference.org">MODELS 2021</a> conference.
 </div>
 
 ## Why HoWCoM?

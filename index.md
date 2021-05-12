@@ -8,9 +8,15 @@ order: 0
 
 <div class="info">
     <div class="announcement-content">
-        <b>NEW</b>
-        (12.05.2021):
-        The website is online.
+        <div class="announcement-type">
+            LATEST NEWS
+        </div>
+        <div class="announcement-content">
+            The website is online
+        </div>
+        <div class="announcement-date">
+            [12.05.2021]
+        </div>
     </div>
 </div>
 

@@ -21,6 +21,8 @@ Virtual</p>
   HoWCoM is a completely online event co-located with the <a href="http://www.modelsconference.org">MODELS 2021</a> conference.
 </div>
 
+<p></p>
+
 ## Why HoWCoM?
 
 The ability to collaboratively engineer models of systems has become a particularly important topic in Model-Driven Engineering (MDE). Apart from becoming multidisciplinary, engineering teams are also getting more and more distributed in space and time. The lack of physical presence forces engineers to rely on digital means of collaboration. Given the recent trends in the research and development of collaborative MDE tools, it is high time for their hands-on evaluation.

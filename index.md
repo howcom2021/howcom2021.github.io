@@ -5,7 +5,7 @@ permalink: /
 order: 0
 ---
 
-<!--
+
 <div class="info">
     <div class="announcement-content">
         <b>NEW</b>
@@ -13,7 +13,7 @@ order: 0
         The website is online.
     </div>
 </div>
--->
+
 
 <!--
 <div class="important">

@@ -1,0 +1,12 @@
+- name: David, Istvan
+  image: istvan.jpg
+  affiliation: University of Montreal, Canada
+  website: http://istvandavid.com/
+- name: Syriani, Eugene
+  image: eugene.jpg
+  affiliation: University of Montreal, Canada
+  website: http://www-ens.iro.umontreal.ca/~syriani/
+- name: Garcia-Dominguez, Antonio
+  image: antonio.jpg
+  affiliation: Aston University, UK
+  website: https://www.cs.aston.ac.uk/~garcia-a/

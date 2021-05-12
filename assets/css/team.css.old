@@ -1,0 +1,121 @@
+@import url("pygment_highlights.css");
+
+/* --- General --- */
+
+hr.people-separator{
+    border:none;
+    height:1px;
+    background-color:#333;
+    width:40%;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+/* --- Lists of circles --- */
+
+.list-circles {
+  text-align: center;
+}
+
+@media only screen and (min-width: 1200px) {
+  .list-circles {
+    width: 150%;
+    margin-left: -25%;
+  }
+}
+
+
+.list-circles-faculty {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-circles-person{
+  display: inline-block;
+  width: 160px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-circles-faculty:hover {
+  background: #fafafa;
+}
+
+.list-circles-person:hover {
+  background: #fafafa;
+}
+
+.list-circles-faculty .item-img {
+  max-width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.list-circles-person .item-img {
+  max-width: 150px;
+  height: 150px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.list-circles-faculty .item-desc {
+  font-size: 16px;
+}
+
+.list-circles-person .item-desc {
+  font-size: 16px;
+}
+
+.list-circles-faculty .item-name {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+a:link, a:visited {
+  color: #D36612;
+}
+
+.list-circles-person .item-name {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.list-circles-faculty .item-links {
+  margin-top: 5px;
+}
+
+.list-circles-person .item-links {
+  margin-top: 5px;
+}
+
+.list-circles-faculty .item-link {
+  margin:0 3px;
+  color: #00994C;
+  text-decoration: none !important;
+}
+
+.list-circles-person .item-link {
+  margin:0 3px;
+  color: #00994C;
+  text-decoration: none !important;
+}
+
+.list-circles-faculty .item-link:hover {
+  color: #00994C;
+}
+
+.list-circles-person .item-link:hover {
+  color: #00994C;
+}
+
+.fa_custom {
+  color: #00CC00
+}

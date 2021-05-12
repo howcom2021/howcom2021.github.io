@@ -1,0 +1,38 @@
+---
+layout: page
+title: Organizers
+permalink: /organizers
+order: 10
+---
+
+{% assign organizers = site.data.organizers%}
+{% assign pc = site.data.pc | sort:"name" %}
+
+<h1>Organizers</h1>
+<div class="list-organizers">
+    {% for organizer in organizers %}
+        <div class="list-organizers-item">
+            <a href="{{ organizer.website }}"><img src="/assets/people/{{ organizer.image }}" class="organizer-img" /></a>
+            {% assign names = organizer.name | split: ", " %}
+            {% assign lastnameUpcase = names[0] | upcase %}
+            {% assign fullname = names[1] | append: " " | append: lastnameUpcase %}
+            <div class="item-name"><a href="{{ organizer.website }}">{{ fullname }}</a></div>
+            <div class="item-desc">{{ organizer.affiliation }}</div>
+        </div>
+    {% endfor %}
+</div>
+
+<h1>Program Committee</h1>
+
+<i>TBA</i>
+
+<!--
+<ul>
+{% for pcmember in pc %}
+    {% assign names = pcmember.name | split: ", " %}
+    {% assign lastnameUpcase = names[0] | upcase %}
+    {% assign fullname = names[1] | append: " " | append: lastnameUpcase %}
+    <li><a href="{{ pcmember.website }}">{{ fullname }}</a>, {{pcmember.affiliation}}</li>
+{% endfor %}
+</ul>
+-->

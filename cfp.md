@@ -34,7 +34,7 @@ We invite the following three types of submissions.
 **Extended abstracts** (1 page) presenting innovative ideas or position statements. Authors of the accepted extended abstracts will be invited for a lightning talk.
 
 
-All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HowCoM EasyChair](https://easychair.org/my/conference?conf=howcom2021) web page.
+All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2021) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
 
 All submissions will be reviewed by at least 3 members of the program committee. Authors of case papers should expect a particularly detailed feedback to allow them to leverage the opportunity the workshop provides to the fullest extent.

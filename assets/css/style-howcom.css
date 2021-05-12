@@ -1,6 +1,6 @@
 div .info{
     width:100%;
-    display: table-cell;
+    display: table;
     background:lightyellow;
     color:black;
     font-weight:500;

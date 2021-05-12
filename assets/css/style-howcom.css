@@ -1,6 +1,6 @@
 div .info{
     width:100%;
-    text-align:center;
+    display: table-cell;
     background:lightyellow;
     color:black;
     font-weight:500;
@@ -25,17 +25,20 @@ div .announcement-type{
     align:left;
     padding-left:5px;
     font-weight: bold;
+    max-width: 15%;
 }
 
 div .announcement-content{
-    align:center;
-    margin: auto;
+    text-align:center;
+    display: table-cell;
+    min-width: 70%
 }
 
 div .announcement-date{
     align:right;
     padding-right:5px;
     font-style: italic;
+    max-width: 15%;
 }
 
 body {

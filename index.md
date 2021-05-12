@@ -5,7 +5,7 @@ permalink: /
 order: 0
 ---
 
-
+<!--
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS
@@ -17,14 +17,18 @@ order: 0
         [12.05.2021]
     </div>
 </div>
-
+-->
 
 <!--
 <div class="important">
+    <div class="announcement-type">
+        IMPORTANT NEWS
+    </div>
     <div class="announcement-content">
-        <b>IMPORTANT</b>
-        (12.05.2021): 
-        The deadline has been extended.
+        The submission deadline has been extended
+    </div>
+    <div class="announcement-date">
+        [12.05.2021]
     </div>
 </div>
 -->

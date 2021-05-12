@@ -31,9 +31,9 @@
 .list-organizers-item .item-img {
   max-width: 200px;
   height: 200px;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
 }
 
 .list-organizers-item .item-desc {

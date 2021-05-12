@@ -10,18 +10,19 @@ order: 0
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 
 <div style="text-align: right">
-<p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS</a></p>
-<p>10 - 12 October 2021<br/>
-<!--<strike>Fukuoka, Japan</strike><br/>-->
-Virtual</p>
-<br/></div>
+  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS</a></p>
+  <p>10 - 12 October 2021<br/>
+  <!--<strike>Fukuoka, Japan</strike><br/>-->
+  Virtual</p>
+  <br/>
+</div>
 
 <div align="center" style="font-weight: 600">
   Welcome to the first International Hands-on Workshop on Collaborative Modeling 2021 (HoWCoM).<br>
   HoWCoM is a completely online event co-located with the <a href="http://www.modelsconference.org">MODELS 2021</a> conference.
+  <br/>
+  <br/>
 </div>
-
-<p></p>
 
 ## Why HoWCoM?
 

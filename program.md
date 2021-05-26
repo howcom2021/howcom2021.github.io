@@ -15,10 +15,10 @@ We will entertain a range of presentations in the form of lightning talks, visio
 *Accepted papers & detailed program TBA*.
 
 
-### **II. Afternoon session: Hands-on experimentation**
+### **II. Afternoon session: Hands-on sessions**
 We invite the participants to experiment with the collaborative modeling tools of their choice.
 Tool developers are invited to support the hands-on session assigned to their tools by providing a supervisory presence, and preferably a brief tutorial before the session starts. We encourage participants to experiment with multiple tools in the afternoon.
-We then ask them to subsequently evaluate their experience.
+We then ask the participants to evaluate their experience by completing an evaluation sheet.
 No prior knowledge is required for the hands-on session: the morning talks and the brief tutorials should provide sufficient information to enable working with the tools. The experiments will be conducted in Zoom breakout rooms.
 
 *List of tools available TBA*.

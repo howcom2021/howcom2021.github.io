@@ -33,15 +33,14 @@ We invite the following three types of submissions.
 
 **Extended abstracts** (1 page) presenting innovative ideas or position statements. Authors of the accepted extended abstracts will be invited for a lightning talk.
 
-<span style="font-size:13px;">
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2021) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
-All submissions will be reviewed by at least 3 members of the program committee. Authors of case papers should expect a particularly detailed feedback to allow them to leverage the opportunity the workshop provides to the fullest extent.  
-Case papers and vision papers will be published in the MoDELS Companion proceedings.
+All submissions will be reviewed by at least 3 members of the program committee. Authors of case papers should expect a particularly detailed feedback to allow them to leverage the opportunity the workshop provides to the fullest extent.
+Case papers and vision papers will be published in the MODELS Companion proceedings.
 Extended abstracts will not be published.
-All accepted papers will be available on the workshop website prior to the start of the workshop.  
-By submitting a paper, the authors commit to present their work at the workshop. Additionally, authors of case papers commit to conduct hands-on experiments in the afternoon session.
-</span>
+All accepted papers will be available on the workshop website prior to the start of the workshop.
+
+To be published in the proceedings, at least one author of an accepted paper must present their work at the workshop. Additionally, authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session.
 
 ### **Case paper specific instructions**
 

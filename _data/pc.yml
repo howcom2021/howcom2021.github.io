@@ -31,9 +31,12 @@
 - name: Qamar, Ahsan
   affiliation: Ford Motor Company, USA
   website: https://www.linkedin.com/in/ahsanqamar
-- name: Riche, Taylor
-  affiliation: National Instruments, USA
-  website: https://www.linkedin.com/in/taylor-rich%C3%A9-2a380616
 - name: Nastov, Blazho
   affiliation: Axellience, France
   website: https://www.linkedin.com/in/blazo-nastov-5194a358/
+- name: Riche, Taylor
+  affiliation: National Instruments, USA
+  website: https://www.linkedin.com/in/taylor-rich%C3%A9-2a380616
+- name: Sousa, Vasco
+  affiliation: University of Montreal, Canada
+  website: http://www-ens.iro.umontreal.ca/~dasilvav/

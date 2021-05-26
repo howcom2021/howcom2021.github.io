@@ -54,7 +54,7 @@ order: 0
 
 The ability to collaboratively engineer models of systems has become a particularly important topic in Model-Driven Engineering (MDE). Apart from becoming multidisciplinary, engineering teams are also getting more and more distributed in space and time. The lack of physical presence forces engineers to rely on digital means of collaboration. Given the recent trends in the research and development of collaborative MDE tools, it is high time for their hands-on evaluation.
 
-The rare opportunity, provided by the online format of the 2021 edition of MoDELS, enables studying the dynamics of collaborative modeling endeavors in a realistic environment: with physically distanced participants forced to rely on means of collaboration provided by the tools under study.
+The rare opportunity, provided by the online format of the 2021 edition of MODELS, enables studying the dynamics of collaborative modeling endeavors in a realistic environment: with physically distanced participants forced to rely on means of collaboration provided by the tools under study.
 
 ## Who is HoWCoM for?
 

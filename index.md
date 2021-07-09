@@ -19,19 +19,19 @@ order: 0
 </div>
 -->
 
-<!--
+
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS
     </div>
     <div class="announcement-content">
-        The submission deadline has been extended
+        [09.07.2021.] The submission deadlines have been extended by a week. Details <a href="/dates" style="color:white;text-decoration:underline;">here</a>.
     </div>
     <div class="announcement-date">
-        [12.05.2021]
+        
     </div>
 </div>
--->
+
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 

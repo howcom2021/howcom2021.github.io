@@ -7,7 +7,7 @@ order: 7
 
 # Important dates
 
-* ~~July 16~~ **July 23, 2021** - Abstract submission deadline.
+* ~~July 16~~ **July 25, 2021** - Abstract submission deadline.
 * ~~July 23~~ **July 30, 2021** - Paper submission deadline.
 * **August 21, 2021** - Notification of acceptance.
 * **August 28, 2021** - Final papers submission deadline.

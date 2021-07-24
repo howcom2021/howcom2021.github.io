@@ -19,7 +19,7 @@ order: 0
 </div>
 -->
 
-
+<!--
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS
@@ -28,7 +28,18 @@ order: 0
         [09.07.2021.] The submission deadlines have been extended by a week. Details <a href="/dates" style="color:white;text-decoration:underline;">here</a>.
     </div>
     <div class="announcement-date">
-        
+    </div>
+</div>
+-->
+
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        [24.07.2021.] The submission site for abstracts will remain open during the weekend. Updated deadlines <a href="/dates" style="color:blue;text-decoration:underline;">here.</a><br/>
+    </div>
+    <div class="announcement-date">
     </div>
 </div>
 

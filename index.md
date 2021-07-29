@@ -37,7 +37,7 @@ order: 0
         LATEST NEWS
     </div>
     <div class="announcement-content">
-        [24.07.2021.] The submission site for abstracts will remain open during the weekend. Updated deadlines <a href="/dates" style="color:blue;text-decoration:underline;">here.</a><br/>
+        [29.07.2021.] The submission site for papers will remain open during the weekend. Updated deadlines <a href="/dates" style="color:blue;text-decoration:underline;">here.</a><br/>
     </div>
     <div class="announcement-date">
     </div>

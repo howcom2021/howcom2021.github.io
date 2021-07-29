@@ -8,7 +8,7 @@ order: 7
 # Important dates
 
 * ~~July 16~~ **July 25, 2021** - Abstract submission deadline.
-* ~~July 23~~ **July 30, 2021** - Paper submission deadline.
+* ~~July 23~~ **August 1, 2021** - Paper submission deadline.
 * **August 21, 2021** - Notification of acceptance.
 * **August 28, 2021** - Final papers submission deadline.
 * **September 6--10, 2021 [Case papers only]** - Technical preparations. Authors are expected to prepare their tools for the workshop, and demonstrate the usability during a brief dry-run.

@@ -31,7 +31,7 @@ order: 0
     </div>
 </div>
 -->
-
+<!--
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS
@@ -42,7 +42,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
-
+-->
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 

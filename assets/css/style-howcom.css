@@ -69,6 +69,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
+h3{
+    margin-top: 15px;
+}
+
 table {
     font-size: 100%;
     margin-bottom: 30px;
@@ -143,6 +147,22 @@ table tr:nth-child(odd) {
 .expired-date{
     color: #FF6666;
     font-weight: 400;
+}
+
+.vision{
+    color: black;
+    background-color: #ffcc00;
+    font-size:80%;
+    font-weight: 400;
+    display: inline;
+}
+
+.case{
+    color: black;
+    background-color: #66ffff;
+    font-size:80%;
+    font-weight: 400;
+    display: inline;
 }
 
 .navigation {

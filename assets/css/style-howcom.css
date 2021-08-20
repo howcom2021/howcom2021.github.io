@@ -140,7 +140,10 @@ table tr:nth-child(odd) {
   padding: 0px;
 }
 
-
+.expired-date{
+    color: #FF6666;
+    font-weight: 400;
+}
 
 .navigation {
     margin-bottom: 0;

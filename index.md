@@ -44,6 +44,17 @@ order: 0
 </div>
 -->
 
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS
+    </div>
+    <div class="announcement-content">
+        [21.08.2021.] The list of accepted papers and available tools is now available <a href="/program" style="color:blue;text-decoration:underline;">here.</a><br/>
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 
 <div style="text-align: right">

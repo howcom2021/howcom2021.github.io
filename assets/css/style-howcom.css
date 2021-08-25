@@ -5,20 +5,24 @@ div .info{
     color:black;
     font-weight:500;
     padding:5px 2px 5px 2px;
-    margin-bottom:30px;
+    margin-bottom:5px;
     overflow:hidden;
     border: 1px solid gray;
 }
 
 div .important{
     width:100%;
-    text-align:center;
+    display: table;
     background:crimson;
     color:white;
     font-weight:500;
     padding:5px 2px 5px 2px;
-    margin-bottom:30px;
+    margin-bottom:5px;
     overflow:hidden;
+}
+
+div .news-separator{
+    margin-bottom:25px;
 }
 
 div .announcement-type{
@@ -28,7 +32,7 @@ div .announcement-type{
 }
 
 div .announcement-content{
-    text-align:center;
+    text-align:right;
     display: table-cell;
     min-width: 80%
 }

@@ -44,16 +44,29 @@ order: 0
 </div>
 -->
 
-<div class="info">
+<div class="important">
     <div class="announcement-type">
-        LATEST NEWS
+        IMPORTANT NEWS [09.07.2021.] 
     </div>
     <div class="announcement-content">
-        [21.08.2021.] The list of accepted papers and available tools is now available <a href="/program" style="color:blue;text-decoration:underline;">here.</a><br/>
+        The deadline for submitting the camera-ready version has been extended to September 03.<br/> The details have been communicated in emails to each author of each accepted paper through EasyChair.
     </div>
     <div class="announcement-date">
     </div>
 </div>
+
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS [21.08.2021.]
+    </div>
+    <div class="announcement-content">
+        The list of accepted papers and available tools is now available <a href="/program" style="color:blue;text-decoration:underline;">here.</a><br/>
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
+<div class="news-separator"></div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
 

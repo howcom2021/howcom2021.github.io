@@ -49,7 +49,7 @@ order: 0
         IMPORTANT NEWS [25.08.2021.] 
     </div>
     <div class="announcement-content">
-        The deadline for submitting the camera-ready version has been extended to September 03.<br/> The details have been communicated in emails to each author of each accepted paper through EasyChair.
+        The deadline for submitting the camera-ready version has been extended to <b>SEPTEMBER 03</b>.<br/> The details have been communicated in emails to each author of each accepted paper through EasyChair.
     </div>
     <div class="announcement-date">
     </div>

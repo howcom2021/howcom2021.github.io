@@ -44,6 +44,17 @@ order: 0
 </div>
 -->
 
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS [31.08.2021.] 
+    </div>
+    <div class="announcement-content">
+        We have postponed the dry-runs to <b>20-24 SEPTEMBER</b>.<br/>Given the maturity of the eventually accepted tools, we do not foresee many technical challenges.<br/>Authors of the accepted papers are asked to focus on the development of their experimental cases instead.<br/>Invitations to the official Slack workspace have been sent through EasyChair.
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+
 <div class="important">
     <div class="announcement-type">
         IMPORTANT NEWS [25.08.2021.] 
@@ -54,7 +65,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
-
+<!--
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [21.08.2021.]
@@ -65,7 +76,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
-
+-->
 <div class="news-separator"></div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)

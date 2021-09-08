@@ -51,3 +51,5 @@ navigation:
   url: /dates
 - title: Organization
   url: /organization
+- title: Disclaimer
+  url: /disclaimer

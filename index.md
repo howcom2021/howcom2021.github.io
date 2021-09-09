@@ -83,7 +83,7 @@ order: 0
         LATEST NEWS [09.09.2021.]
     </div>
     <div class="announcement-content">
-        The date and time of the workshop has been confirmed. The program is available <a href="/program" style="color:blue;text-decoration:underline;">here.</a><br/>
+        11 October has been confirmed as the date of the workshop. The detailed program is available <a href="/program" style="color:blue;text-decoration:underline;">here.</a><br/>
     </div>
     <div class="announcement-date">
     </div>

@@ -78,6 +78,7 @@ order: 0
     </div>
 </div>
 -->
+<!--
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [09.09.2021.]
@@ -88,6 +89,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
+-->
 <div class="news-separator"></div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)

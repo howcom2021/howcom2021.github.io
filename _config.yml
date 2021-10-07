@@ -45,10 +45,10 @@ navigation:
   url: /
 - title: Program
   url: /program
+- title: Cases and install
+  url: /cases-and-installation
 - title: Call for Papers
   url: /cfp
-- title: Important dates
-  url: /dates
 - title: Organization
   url: /organization
 - title: Disclaimer

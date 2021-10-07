@@ -33,5 +33,8 @@ mkdir workspace
 cd workspace
 code .
 ```
-
 * Install the downloaded VSIX file (`vscode-xtext-turn-0.0.2.vsix`) of our proposed TGRL extension in VS Code by using shortcut key CTRL + SHIFT + X or navigating in menu bar: View → Extensions → Install from VSIX... → Select the downloaded vsix file.
+* Install the VS Code Live Share extension using the “Search extensions in Marketplace” or using the below command after using CTRL + P (VS Code Quick Open) shortcut key:
+```ext install MS-vsliveshare.vsliveshare-pack```.
+* Click on the “LiveShare” option in the bottom left corner of VS Code to start a collaboration session.
+* Modeller can create TGRL Models (file with .turn extension) collaboratively. For quick start, we have provided a sample TGRL model ”example.turn” in the “examples” folder of the [repository](https://github.com/Rijul5/vscode-turn).

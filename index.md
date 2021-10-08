@@ -90,6 +90,16 @@ order: 0
     </div>
 </div>
 -->
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS [08.10.2021.]
+    </div>
+    <div class="announcement-content">
+        The cases for the hands-on experiments and the details on installing the tools are available <a href="/cases-and-installation" style="color:blue;text-decoration:underline;">here</a>.<br/>
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
 <div class="news-separator"></div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)

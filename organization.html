@@ -32,3 +32,14 @@ order: 10
     <li><a href="{{ pcmember.website }}">{{ fullname }}</a>, {{pcmember.affiliation}}</li>
 {% endfor %}
 </ul>
+
+<h1>Student volunteers</h1>
+
+<ul>
+{% for s in sv %}
+    {% assign names = s.name | split: ", " %}
+    {% assign lastnameUpcase = names[0] | upcase %}
+    {% assign fullname = names[1] | append: " " | append: lastnameUpcase %}
+    <li><a href="{{ s.website }}">{{ fullname }}</a>, {{s.affiliation}}</li>
+{% endfor %}
+</ul>

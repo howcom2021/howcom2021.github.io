@@ -19,6 +19,8 @@ order: 5
 
 ### MetaEdit+ (1-3 minutes)
 
+[Instructions are here](https://docs.google.com/document/d/1XXdHRFIky4tAcK4DbJzw7jQvr97w5xiu0QhHsxbScLE/edit#)
+
 You’ll be accessing our server with Microsoft’s Remote Desktop Connection (mstsc.exe). This is installed by default on Windows, but for other platforms you can install it:
 * Mac: Microsoft Remote Desktop @[App Store](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 * Linux: [Remmina](https://linuxkamarada.com/en/2020/04/20/remote-desktop-connection-to-windows-from-linux-using-rdp-clients/#remmina) (pre-installed on Ubuntu), [FreeRDP](https://linuxkamarada.com/en/2020/04/20/remote-desktop-connection-to-windows-from-linux-using-rdp-clients/#freerdp) etc.

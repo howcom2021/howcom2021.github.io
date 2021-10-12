@@ -89,7 +89,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
--->
+
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [08.10.2021.]
@@ -100,6 +100,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
+-->
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [08.10.2021.]
@@ -107,6 +108,17 @@ order: 0
     <div class="announcement-content">
         Join our <a href="https://join.slack.com/t/howcom2021/shared_invite/zt-x2z3ew8x-WAFSMil~HmopcABnBu902g" style="color:blue;text-decoration:underline;">Slack channel</a> to chat with the presenters, tool builders and organizers.<br/>
         Or join the <a href="https://whova.com/portal/webapp/maicm_202110/CommunityBoard/topic/938024" style="color:blue;text-decoration:underline;">discussion</a> on Whova, the official webconference platform of MODELS.<br/>
+    </div>
+    <div class="announcement-date">
+    </div>
+</div>
+<div class="info">
+    <div class="announcement-type">
+        LATEST NEWS [12.10.2021.]
+    </div>
+    <div class="announcement-content">
+        The organizers would like to thank the participants, authors, PC members and student volunteers for their efforts.<br/>
+        The presentations will be available from <a href="/program">here</a> soon.
     </div>
     <div class="announcement-date">
     </div>

@@ -100,7 +100,6 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
--->
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [08.10.2021.]
@@ -112,13 +111,14 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
+-->
 <div class="info">
     <div class="announcement-type">
         LATEST NEWS [12.10.2021.]
     </div>
     <div class="announcement-content">
         The organizers would like to thank the participants, authors, PC members and student volunteers for their efforts.<br/>
-        The presentations will be available from <a href="/program">here</a> soon.
+        The presentations are available from <a href="/program">here</a>.
     </div>
     <div class="announcement-date">
     </div>

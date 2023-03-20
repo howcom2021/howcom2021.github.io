@@ -112,7 +112,7 @@ order: 0
     </div>
 </div>
 -->
-<div class="info">
+<!-- <div class="info">
     <div class="announcement-type">
         LATEST NEWS [12.10.2021.]
     </div>
@@ -123,6 +123,7 @@ order: 0
     <div class="announcement-date">
     </div>
 </div>
+-->
 <div class="news-separator"></div>
 
 ![howcom](/assets/howcom-v2-2-trim-1920.png)
